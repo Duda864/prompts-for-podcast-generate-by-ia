@@ -46,4 +46,4 @@ Este é um podcast gerado pelas IAs utilizando prompts diferentes para criar um 
 
 https://www.notion.so/PAS-Podcast-AI-Studio-18c07b5f7fbe809da594ca29b87ecbac?pvs=4
 
-
+Observação: Os prompts e o audio estão no link acima.⬆️
